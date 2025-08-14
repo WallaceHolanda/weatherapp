@@ -36,11 +36,12 @@ const styles = StyleSheet.create({
   appTitle: {
     fontSize: 26,
     color: '#FFF',
-    fontWeight: '500',
+    fontFamily: 'Montserrat_600SemiBold'
   },
   text: {
     fontSize: 24,
     color: '#FFF',
+    fontFamily: 'Montserrat_400Regular',
   },
   button: {
     gap: 8,
@@ -56,5 +57,6 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: '600',
     color: '#01080E',
+    fontFamily: 'Montserrat_600SemiBold',
   },
 });
