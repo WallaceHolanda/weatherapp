@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
         flex: 1,
         paddingTop: 40,
         paddingHorizontal: 16,
-        gap: 16,
+        gap: 40,
     },
     scrollList: {
         gap: 16,
